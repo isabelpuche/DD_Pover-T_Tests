@@ -1,5 +1,6 @@
 .idea
 notebooks/.ipynb_checkpoints
+notebooks/catboost_info
 .env
 .env.leave
 project's_report
