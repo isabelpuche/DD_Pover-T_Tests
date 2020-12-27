@@ -9,13 +9,14 @@ README structure:
 Problem setup
 Step Approach Description
 
-## Main conclusions and future steps
+## Main results
 
 ## Practical issues
 ### Installation
 
 ### Folder's structure
-#### project's report
-#### notebooks
+#### data
 #### images
+#### model
+#### notebooks
 
