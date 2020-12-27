@@ -1,5 +1,5 @@
 # Pover-T Tests: Predicting Poverty
-Hosted by the World Bank
+Hosted by the World Bank<br>
 Driven Data
 
 **Take Home Exercise Clarity AI** <br>
@@ -15,7 +15,8 @@ Thus, the project takes a four-step approach:
 </ul>
 
 ## Main results
-With a log-loss score of 0.4888, the best model (CatBoost) predicts a greater number of poor households with low degrees of probability and viceversa. The contrary holds true for non-poor households.
+With a log-loss score of 0.4888, the best model (CatBoost) predicts a smaller amount of poor households with high probability. The contrary holds true for non-poor households.<br>
+
 <img src="images/results.png"><br>
 
 ## Practical issues
